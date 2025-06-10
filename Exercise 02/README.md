@@ -12,7 +12,7 @@ In this exercise, I implemented a Caesar Cipher encryption program in C. It supp
 </div>
 
 
-## How to Run
+## Running the Project
 
 To compile and run the program locally:
 
