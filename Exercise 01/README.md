@@ -37,13 +37,11 @@ To compile and run the program locally:
    ./cipher test
    ```
 
----
 
 ## Contributions
 
 Contributions are encouraged! For any significant changes, it's best to open an issue first and start a discussion.
 
----
 
 ## License
 
