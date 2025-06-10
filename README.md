@@ -9,7 +9,7 @@ Throughout the 13-week course, we explored key programming principles using C/C+
 
 
 
-🔗 [View Course Syllabus (Shnaton)](https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2022/)
+🔗 [View Course Syllabus (Shnaton)](https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2023/)
 
 
 ---
