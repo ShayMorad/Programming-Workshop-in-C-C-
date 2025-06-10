@@ -7,7 +7,7 @@
 
 In this project, I implemented a sorting program for public bus line data using both **bubble sort** and **quick sort** algorithms. The exercise focuses on core C concepts like **dynamic memory allocation**, **structs**, **arrays**, and **pointer manipulation**. It also includes a test mode that validates sorting correctness and memory safety.
 
-[**« Return to Main Repository**](https://github.com/ShayMorad/C-CPP-Workshop)
+[**« Return to Main Repository**](https://github.com/ShayMorad/Programming-Workshop-in-C-CPP)
 
 </div>
 
