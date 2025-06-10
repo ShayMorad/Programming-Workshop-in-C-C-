@@ -4,7 +4,7 @@
 
 
 
-**Cipher** is the first assignment I completed in the *Programming Workshop in C/C++* course at the Hebrew University of Jerusalem.
+**Cipher** is the first assignment I completed in the *Programming Workshop in C/C++* course at the HUJI.
 
 In this exercise, I implemented a Caesar Cipher encryption program in C. It supports both encoding and decoding of English alphabetic characters, with cyclic and non-cyclic behavior based on the shift value `k`. The program also includes a built-in test mode to validate various encoding and decoding scenarios.
 
